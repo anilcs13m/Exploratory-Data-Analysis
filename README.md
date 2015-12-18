@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-This is a repository for all the programs related to the Exploratory-Data-Analysis part data science specialization
+This is a repository for any and all code written for the Exploratory Data Analysis Coursera course through Johns Hopkins University.
